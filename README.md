@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive implementation guide for building a stock price predictor tailored to the Indian stock market, leveraging PyTorch for modeling, Streamlit for the user interface, and real-time data integration. Additionally, we'll explore enhancements to make the application more visually appealing and technologically advanced.
-
----
-
 ## 📈 Project Overview: Stock Price Predictor for the Indian Market
 
 **Objective**: Develop an interactive web application that predicts stock prices using historical data, providing real-time insights for Indian stocks.
